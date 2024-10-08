@@ -14,8 +14,8 @@ Welcome to my training repository! Here you will find my work and projects relat
 I welcome contributions and suggestions! If you have ideas for improvements or new projects, please open an issue or submit a pull request.
 
 ## Lastest Additions 🔥
-- **Apache Spark Practice **: A hands-on exercise with Apache Spark, demonstrating the use of Spark's core features such as data processing, transformation, and aggregation. This practice includes: loading and transforming datasets, performing RDD operations, implementing data processing pipelines using Spark DataFrames.
-- **Small Practice Exercise **: A simple exercise designed to practice basic coding skills.
+- **Apache Spark Practice**: A hands-on exercise with Apache Spark, demonstrating the use of Spark's core features such as data processing, transformation, and aggregation. This practice includes: loading and transforming datasets, performing RDD operations, implementing data processing pipelines using Spark DataFrames.
+- **Small Practice Exercise**: A simple exercise designed to practice basic coding skills.
 
 ---
 
