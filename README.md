@@ -13,6 +13,10 @@ Welcome to my training repository! Here you will find my work and projects relat
 
 I welcome contributions and suggestions! If you have ideas for improvements or new projects, please open an issue or submit a pull request.
 
+## Lastest Additions 🔥
+- **Apache Spark Practice **: A hands-on exercise with Apache Spark, demonstrating the use of Spark's core features such as data processing, transformation, and aggregation. This practice includes: loading and transforming datasets, performing RDD operations, implementing data processing pipelines using Spark DataFrames.
+- **Small Practice Exercise **: A simple exercise designed to practice basic coding skills.
+
 ---
 
 # 📊🧠 Repositorio de Entrenamiento en Python, Machine Learning, Power BI y Análisis de Datos 📂
@@ -29,3 +33,8 @@ I welcome contributions and suggestions! If you have ideas for improvements or n
 ## Contribuir 🤝
 
 ¡Doy la bienvenida a contribuciones y sugerencias! Si tienes ideas para mejoras o nuevos proyectos, por favor abre un issue o envía un pull request.
+
+
+
+
+
